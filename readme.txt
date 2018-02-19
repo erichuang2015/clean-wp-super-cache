@@ -31,8 +31,8 @@ Step 3: That is it, now you will add a button on top of the Admin bar as \"Clear
 Step 4: Click that button and it will clear all the Cache created by WP super cache
 
 == Frequently Asked Questions ==
-I installed the plugin but I don\'t see the Button on top of my dashboard
-Ans:  Make sure WP Super Cache is installed and Enabled on your site, And this button will only appear on the backend 
+=I installed the plugin but I don\'t see the Button on top of my dashboard=
+Make sure WP Super Cache is installed and Enabled on your site, And this button will only appear on the backend 
 
 == Screenshots ==
 1. You can see \"Clean all button\" on top
