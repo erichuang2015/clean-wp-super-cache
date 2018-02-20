@@ -19,6 +19,9 @@ But this plugin adds a button on top of every page of Admin bar from there you c
 
 Here is a Video to help you out in Installation and usage of the plugin
 
+Addition in Version 1.2
+Now you can clear cache for specific page or post from within the page or post
+
 [youtube https://www.youtube.com/watch?v=evXYw-yjiBY]
 
 == Installation ==
