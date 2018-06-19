@@ -1,10 +1,10 @@
-=== WP Super Cache Cleaner ===
+=== Cache Cleaner for WP Super Cache ===
 Contributors: rajeshsingh520
 Tags: wp super cache, clean all cache, cache
 Requires at least: 4
 Tested up to: 4.9.4
 Requires PHP: 5.0
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

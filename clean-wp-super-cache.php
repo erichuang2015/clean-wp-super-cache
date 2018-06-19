@@ -1,9 +1,9 @@
 <?php
 /**
-Plugin Name: WP Super Cache Cleaner 
+Plugin Name: Cache Cleaner for WP Super Cache
 Plugin URI: https://github.com/rajeshsingh520/wp-super-cache-cleaner
 Description: Ajax based Clear cache for WP super cache, with this you can clear WP super cache from any place in WordPress dashboard without leaving the present page
-Version: 1.2
+Version: 1.3
 Author: Rajesh singh
 Author URI: https://100dollarswebsites.com
 Text Domain: wp-super-cache-cleaner
